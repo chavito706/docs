@@ -50,7 +50,7 @@
     "imurmurhash": "^0.1.4",
     "js-cookie": "^3.0.0",
     "js-yaml": "^4.1.0",
-    "liquidjs": "^9.22.1",
+    "liquidjs": "^10.0.0",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "lunr": "^2.3.9",
@@ -58,7 +58,7 @@
     "mdast-util-from-markdown": "^1.0.0",
     "mdast-util-to-string": "^3.1.0",
     "morgan": "^1.10.0",
-    "next": "^11.0.1",
+    "next": "^13.5.1",
     "node-fetch": "^2.6.1",
     "parse5": "^6.0.1",
     "port-used": "^2.0.8",
@@ -80,9 +80,9 @@
     "remark-parse-no-trim": "^8.0.4",
     "remark-rehype": "^8.1.0",
     "revalidator": "^0.3.1",
-    "rss-parser": "^3.12.0",
+    "rss-parser": "^3.13.0",
     "scroll-anchoring": "^0.1.0",
-    "semver": "^7.3.5",
+    "semver": "^7.5.2",
     "slash": "^4.0.0",
     "strip-html-comments": "^1.0.0",
     "styled-components": "^5.3.0",
@@ -93,7 +93,7 @@
     "walk-sync": "^3.0.0"
   },
   "devDependencies": {
-    "@actions/core": "^1.4.0",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^5.0.0",
     "@babel/core": "^7.14.8",
     "@babel/eslint-parser": "^7.14.7",
@@ -158,7 +158,7 @@
     "object-hash": "^2.2.0",
     "postcss": "^8.3.6",
     "prettier": "^2.3.2",
-    "replace": "^1.2.1",
+    "replace": "^1.2.2",
     "rimraf": "^3.0.2",
     "robots-parser": "^2.3.0",
     "sass": "^1.36.0",
@@ -167,7 +167,7 @@
     "supertest": "^6.1.4",
     "typescript": "^4.3.5",
     "url-template": "^2.0.8",
-    "website-scraper": "^4.2.3"
+    "website-scraper": "^5.3.1"
   },
   "engines": {
     "node": ">= 16.0.0"
